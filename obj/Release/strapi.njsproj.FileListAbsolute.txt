@@ -1,0 +1,3 @@
+C:\Users\tbuddhika\source\repos\strapi\strapi\obj\Release\strapi.njsproj.CoreCompileInputs.cache
+C:\Users\tbuddhika\source\repos\strapi\strapi\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\tbuddhika\source\repos\strapi\strapi\obj\Release\strapi.njsproj.AssemblyReference.cache
