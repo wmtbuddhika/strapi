@@ -1,2 +1,0 @@
-C:\Users\tbuddhika\source\repos\strapi\strapi\obj\Debug\strapi.njsproj.CoreCompileInputs.cache
-C:\Users\tbuddhika\source\repos\strapi\strapi\bin\Microsoft.NodejsTools.WebRole.dll
